@@ -8,3 +8,7 @@
 martaquintana/martaquintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=martaquintana&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaquintana&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
