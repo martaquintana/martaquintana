@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=martaquintana&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaquintana&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=martaquintana&hide_border=true" />
+</p>
