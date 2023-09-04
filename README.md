@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @martaquintana, I'm an audiovisual and multimedia systems engineer.
 - 👀 I’m interested in learn about 3D animation and visual effects.
 - 🌱 I’m currently part-time full stack developer in Kibotics learning web technologies, a-frame and robotic combining with my studies in the master of computer science, graphic games and virtual reality.
-- 🎨 Last year I did some online courses about watercolor, art and Blender.
-- 💞️ I’m looking to collaborate on videogames, movies or animation films.
+- 🎨 I love art.
+- 💞️ I’m looking to collaborate on videogames, websites, movies or animation films.
 - 📫 How to reach me: here and in this e-mail martaqp97@gmail.com
 
 <!---
